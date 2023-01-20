@@ -1,0 +1,15 @@
+R:\Projects\Skyscrapers\Skyscrapers\bin\Debug\net6.0\Skyscrapers.exe
+R:\Projects\Skyscrapers\Skyscrapers\bin\Debug\net6.0\Skyscrapers.deps.json
+R:\Projects\Skyscrapers\Skyscrapers\bin\Debug\net6.0\Skyscrapers.runtimeconfig.json
+R:\Projects\Skyscrapers\Skyscrapers\bin\Debug\net6.0\Skyscrapers.dll
+R:\Projects\Skyscrapers\Skyscrapers\bin\Debug\net6.0\Skyscrapers.pdb
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.csproj.AssemblyReference.cache
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.GeneratedMSBuildEditorConfig.editorconfig
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.AssemblyInfoInputs.cache
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.AssemblyInfo.cs
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.csproj.CoreCompileInputs.cache
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.dll
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\refint\Skyscrapers.dll
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.pdb
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\Skyscrapers.genruntimeconfig.cache
+R:\Projects\Skyscrapers\Skyscrapers\obj\Debug\net6.0\ref\Skyscrapers.dll
